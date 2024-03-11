@@ -16,17 +16,6 @@ Rating Card Reactions is a simple web development project aimed at demonstrating
 - Easy-to-understand code structure for beginners to learn from.
 - Minimalistic styling to focus on functionality.
 
-## Demo
-
-[View Demo](https://example.com)
-
-## Installation
-
-1. Clone the repository:
-
-
-2. Open `index.html` in your preferred web browser.
-
 ## Usage
 
 1. Click on the reaction buttons to rate the content.
@@ -37,11 +26,3 @@ Rating Card Reactions is a simple web development project aimed at demonstrating
 
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by [Project/Author Name]
-- Special thanks to [Contributor Names] for their valuable feedback and suggestions.
