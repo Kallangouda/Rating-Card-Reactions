@@ -24,3 +24,24 @@ Rating Card Reactions is a simple web development project aimed at demonstrating
 
 1. Clone the repository:
 
+
+2. Open `index.html` in your preferred web browser.
+
+## Usage
+
+1. Click on the reaction buttons to rate the content.
+2. Watch as the reaction counts update in real-time.
+3. Customize the project according to your needs by modifying the HTML, CSS, and JavaScript files.
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Inspired by [Project/Author Name]
+- Special thanks to [Contributor Names] for their valuable feedback and suggestions.
