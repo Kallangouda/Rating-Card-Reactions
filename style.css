@@ -7,7 +7,7 @@ body {
 
 .container {
   position: fixed;
-  top: 0;
+  top: 1;
   bottom: 0;
   left: 0;
   right: 0;
@@ -41,7 +41,7 @@ body {
   background-image: url("reactions.png");
   background-size: 46.25rem;
   background-repeat: no-repeat;
-  border-radius: 501px;
+  border-radius: 500px;
   transition: all ease 0.2s;
   border: 0.625rem solid #ffffff;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
@@ -145,7 +145,7 @@ body {
 }
 .fbRatingCard .submit-btn {
   position: absolute;
-  left: 50%;
+  left: 51%;
   transform: translateX(-50%);
   bottom: -2.1866rem;
   margin: auto;
