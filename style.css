@@ -56,7 +56,7 @@ body {
   text-align: center;
   font-size: 1.26rem;
   text-transform: capitalize;
-  font-weight: 601;
+  font-weight: 600;
   color: #212121;
 }
 .fbRatingCard .cardContainer input[type=radio] {
@@ -85,7 +85,7 @@ body {
   left: 0;
   right: 0;
   margin: auto;
-  border-radius: 501px;
+  border-radius: 500px;
   transform: scale(0);
   transition: all ease 0.2s;
 }
