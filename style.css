@@ -41,7 +41,7 @@ body {
   background-image: url("reactions.png");
   background-size: 46.25rem;
   background-repeat: no-repeat;
-  border-radius: 501px;
+  border-radius: 500px;
   transition: all ease 0.2s;
   border: 0.625rem solid #ffffff;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
@@ -67,7 +67,7 @@ body {
   height: 1.25rem;
   width: 1.25rem;
   margin: 0 0.625rem;
-  border-radius: 501px;
+  border-radius: 500px;
   background-color: #000 ;
   position: relative;
 }
